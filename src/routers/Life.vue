@@ -1,6 +1,6 @@
 <template>
     <div class="life">
-        라이프 페이지
+        <h3>라이프 페이지</h3>
     </div>
 </template>
 

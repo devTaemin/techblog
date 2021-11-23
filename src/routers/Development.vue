@@ -1,6 +1,6 @@
 <template>
     <div class="development">
-        개발 페이지
+        <h3>개발 페이지</h3>
     </div>
 </template>
 
@@ -12,6 +12,6 @@ export default ({
 
 <style scoped>
 .development {
-    
+
 }
 </style>

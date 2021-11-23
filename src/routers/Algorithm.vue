@@ -1,6 +1,6 @@
 <template>
     <div class="algorithm">
-        알고리즘 페이지
+        <h3>알고리즘 페이지</h3>
     </div>
 </template>
 

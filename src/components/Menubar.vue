@@ -18,7 +18,7 @@ export default ({
 
 <style scoped>
 .menubar {
-    width: 1024px;
+    width: var(--width);
     border-top: 1px solid #d3d3d3;
     border-bottom: 1px solid #d3d3d3;
     margin: 20px 40px;
@@ -30,15 +30,16 @@ export default ({
     align-items: center;
     list-style-type: none;
     padding: 0;
+    font-weight: 700;
 }
 
 .menubar-link li {
     display: inline-block;
-    margin: 0 10px;
+    margin: 0 20px;
 }
 
 .menubar-link a {
     text-decoration-line: none;
-    color: #42b983;
+    color: var(--green);
 }
 </style>

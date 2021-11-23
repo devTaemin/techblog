@@ -11,6 +11,17 @@ const routes = [
         name: 'algorithm',
         component: () => import('./routers/Algorithm.vue'),
     },
+    {
+        path: '/techblog/development',
+        name: 'development',
+        component: () => import('./routers/Development.vue'),
+    },
+    {
+        path: '/techblog/life',
+        name: 'life',
+        component: () => import('./routers/Life.vue'),
+    },
+
 ]
 
 const router = createRouter({

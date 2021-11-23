@@ -2,19 +2,14 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
     {
-        path: '/',
+        path: '/techblog',
         name: 'home',
         component: () => import('./routers/Home.vue'),
     },
     {
-        path: '/algorithm',
+        path: '/techblog/algorithm',
         name: 'algorithm',
         component: () => import('./routers/Algorithm.vue'),
-    },
-    {
-        path: '/vue',
-        name: 'vue',
-        // component: () => import(''),
     },
 ]
 

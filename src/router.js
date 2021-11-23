@@ -17,9 +17,9 @@ const routes = [
         component: () => import('./routers/Development.vue'),
     },
     {
-        path: '/techblog/life',
-        name: 'life',
-        component: () => import('./routers/Life.vue'),
+        path: '/techblog/memo',
+        name: 'memo',
+        component: () => import('./routers/Memo.vue'),
     },
 
 ]

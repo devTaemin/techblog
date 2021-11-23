@@ -30,18 +30,8 @@
           <div class="latestPost-content__column-subtitle">SubTitle</div>
           <div class="latestPost-content__column-date">2021-11-23</div>
         </div>
-        
-        
       </div>
-      
     </div>
-    
-    
-    <div class="mostViews">
-      <i class="fas fa-search"></i>
-
-    </div>
-    <h3>Most Views</h3>
   </div>
 </template>
 

@@ -4,7 +4,7 @@
             <li><router-link to='/techblog'>Home</router-link></li>
             <li><router-link to='/techblog/algorithm'>Algorithm</router-link></li>
             <li><router-link to='/techblog/development'>Development</router-link></li>
-            <li><router-link to='/techblog/life'>Life</router-link></li>
+            <li><router-link to='/techblog/memo'>Memo</router-link></li>
         </ul>
     </div>
 </template>

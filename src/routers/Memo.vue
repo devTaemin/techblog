@@ -1,17 +1,17 @@
 <template>
-    <div class="life">
-        <h3>라이프 페이지</h3>
+    <div class="memo">
+        <h3>메모 페이지</h3>
     </div>
 </template>
 
 <script>
 export default ({
-    name: 'Life',
+    name: 'Memo',
 })
 </script>
 
 <style scoped>
-.life {
+.memo {
 
 }
 </style>
